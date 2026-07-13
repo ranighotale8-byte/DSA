@@ -1,5 +1,3 @@
-// User template for Java
-
 class Solution {
   static final int[] q = new int[45];
   static {
